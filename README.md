@@ -6,7 +6,7 @@
 
 ## Ipython Notebooks on Google Colab
 ### Linear Regression
-https://colab.research.google.com/github/Robinysh/Deep-Learning-Tutorial-2019-2020/blob/master/LogisticRegression.ipynb
+https://colab.research.google.com/github/Robinysh/Deep-Learning-Tutorial-2019-2020/blob/master/LinearRegression.ipynb
 
 ### Logistic Regression
-https://colab.research.google.com/github/Robinysh/Deep-Learning-Tutorial-2019-2020/blob/master/LinearRegression.ipynb
+https://colab.research.google.com/github/Robinysh/Deep-Learning-Tutorial-2019-2020/blob/master/LogisticRegression.ipynb
