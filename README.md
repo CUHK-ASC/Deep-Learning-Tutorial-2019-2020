@@ -10,3 +10,9 @@ https://colab.research.google.com/drive/1OPHtuVRNQl1OnYw59R3-uHtn6wmJEPeK
 
 ### Logistic Regression
 https://colab.research.google.com/github/Robinysh/Deep-Learning-Tutorial-2019-2020/blob/master/LogisticRegression.ipynb
+
+### Linear Regression in PyTorch
+https://colab.research.google.com/drive/1MqpoQ8Njagk2CXQen4nfpD0LHp83vqqn
+
+### Logistic Regression in PyTorch
+https://colab.research.google.com/drive/11FzSojZFT4d71WrghD71mt_8izdbnjc8
