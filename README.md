@@ -4,6 +4,7 @@
 - [Classical Machine Learning](https://docs.google.com/presentation/d/1jXfVvst3t8vOZuvORva_RsBf11-jmjDSjl8x6GI36yQ/edit?usp=sharing)
 - [Basics in Deep Learning](https://docs.google.com/presentation/d/1Y0fv_HcHfeQl-QxM-DGnNS6LgeYZwO0iEUq5mGtyYlQ/edit?usp=sharing)
 - [Image Processing](https://docs.google.com/presentation/d/14qV4oybTSX3hBSHF1ayo9J26jFx-MUqrPqjHaopH9h8/edit?usp=sharing)
+- [Natural Language Processing](https://docs.google.com/presentation/d/1yEqiA0XeNk5wcDdCqNsDAcBFQve4xp8xK9oIhzwOlzY/edit?usp=sharing)
 
 ## Ipython Notebooks on Google Colab
 ### Linear Regression
