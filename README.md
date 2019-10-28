@@ -20,3 +20,6 @@ https://colab.research.google.com/drive/1OqkG4EhnIsP0eZMHO2whIPrlsPFw8CCa
 
 ### Non linear classification in PyTorch
 https://colab.research.google.com/drive/1ZFvkqamxHyom9Gfbazk-KjuapDEUz459
+
+### Convolutional Neural Network on MNIST
+https://colab.research.google.com/drive/13HM-dQbz4eFfdNvd3jIzPXDiwkhKLhZf
